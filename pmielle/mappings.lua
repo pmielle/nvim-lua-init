@@ -12,7 +12,6 @@ map('', '<space>', '')
 -- normal mode
 -- -----------
 map('n', '<leader>/', ':nohl<CR>')
-map('n', '<leader>j', '}')
 
 -- insert mode
 -- -----------
