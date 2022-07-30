@@ -12,6 +12,7 @@ map('', '<space>', '')
 -- normal mode
 -- -----------
 map('n', '<leader>/', ':nohl<CR>')
+map('n', '<leader>e', ':Telescope find_files<CR>')
 
 -- insert mode
 -- -----------
